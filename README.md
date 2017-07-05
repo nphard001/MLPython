@@ -9,7 +9,7 @@
 + 定義函式def
 + 格式化字串
 
-# Beginner2
+# [Beginner2](https://nbviewer.jupyter.org/github/nphard001/MLPython/blob/master/Basis2.ipynb)
 + 條件判斷if、邏輯運算
 + 迴圈while
 + 迴圈for
